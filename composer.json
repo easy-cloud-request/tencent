@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "tencentcloud/common": "^3.0",
-        "easy-cloud-request/core": "^0.0.1"
+        "easy-cloud-request/core": ">0.0.1"
     },
     "require-dev": {
         "phpunit/phpunit": "^6.5",
